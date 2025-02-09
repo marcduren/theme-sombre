@@ -1,0 +1,22 @@
+{
+  "name": "md-sombre",
+  "displayName": "md-sombre",
+  "description": "Crayon colors palette",
+  "version": "0.0.1",
+  "publisher": "marc-duren",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Theme Sombre MD",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Crayon palette colors-color-theme.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "name": "Crayon palette colors",
+  "colors": {
+    "editor.background": "#1e1e1e",
+    "editor.foreground": "#D4D4D4",
+    "activityBarBadge.background": "#5a7ca4",
+    "sideBarTitle.foreground": "#bbbbbb",
+    "tab.activeBackground": "#49487b"
+  },
+  "tokenColors": [
+    {
+      "name": "Comments",
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": {
+        "foreground": "#586270",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Keywords + Types",
+      "scope": ["keyword", "storage.type", "support.type"],
+      "settings": {
+        "foreground": "#7495b6",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": ["entity.name.function", "meta.function-call"],
+      "settings": {
+        "foreground": "#8C9FB8",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Language Constants",
+      "scope": ["keyword.operator", "keyword.other"],
+      "settings": {
+        "foreground": "#D9C891",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Variables",
+      "scope": ["variable", "support.variable"],
+      "settings": {
+        "foreground": "#ddd",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Numbers, Characters, Constantes",
+      "scope": [
+        "string",
+        "constant.character.escape",
+        "string.regexp",
+        "constant",
+        "constant.numeric",
+        "constant.character",
+        "constant.language",
+        "support.constant",
+        "variable.language",
+
+        "support.type"
+      ],
+      "settings": {
+        "foreground": "#A9B38D",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "tag",
+      "scope": ["entity.name.tag"],
+      "settings": {
+        "foreground": "#BBBBCC",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": ["support.type.property-name"],
+      "settings": {
+        "foreground": "#B27B78",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": ["markup.inserted"],
+      "settings": {
+        "foreground": "#383E47",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": ["markup.deleted"],
+      "settings": {
+        "foreground": "#586270"
+      }
+    },
+    {
+      "scope": ["markup.changed"],
+      "settings": {
+        "foreground": "#CC99B3"
+      }
+    }
+  ]
+}
