@@ -2,7 +2,7 @@
   "name": "Crayon palette colors",
   "colors": {
     "editor.background": "#1e1e1e",
-    "editor.foreground": "#D4D4D4",
+    "editor.foreground": "#eeeeee",
     "editor.selectionBackground": "#383E47",
     "editor.selectionForeground": "#ddd",
     "editor.selectionHighlightBackground": "#ffff0020",
@@ -67,7 +67,7 @@
       "name": "tag",
       "scope": ["entity.name.tag", "punctuation.definition.tag"],
       "settings": {
-        "foreground": "#99a",
+        "foreground": "#798494",
         "fontStyle": "bold"
       }
     },
