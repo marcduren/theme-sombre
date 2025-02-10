@@ -2,10 +2,10 @@
   "name": "md-sombre",
   "displayName": "Theme Sombre MD",
   "description": "Crayon colors palette",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "marc-duren",
   "engines": {
-    "vscode": "^1.97.0"
+    "vscode": "^1.60.0"
   },
   "categories": [
     "Themes"
