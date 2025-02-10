@@ -2,7 +2,7 @@
   "name": "Crayon palette colors",
   "colors": {
     "editor.background": "#1e1e1e",
-    "editor.foreground": "#eeeeee",
+    "editor.foreground": "#d8d8d8",
     "editor.selectionBackground": "#383E47",
     "editor.selectionForeground": "#ddd",
     "editor.selectionHighlightBackground": "#ffff0020",
@@ -31,8 +31,8 @@
     {
       "scope": ["entity.name.function", "meta.function-call"],
       "settings": {
-        "foreground": "#85a2bf",
-        "fontStyle": "italic"
+        "foreground": "#94a8c2",
+        "fontStyle": ""
       }
     },
     {
@@ -59,7 +59,7 @@
         "support.type"
       ],
       "settings": {
-        "foreground": "#A9B38D",
+        "foreground": "#b3bd95",
         "fontStyle": ""
       }
     },
@@ -67,14 +67,14 @@
       "name": "tag",
       "scope": ["entity.name.tag", "punctuation.definition.tag"],
       "settings": {
-        "foreground": "#798494",
-        "fontStyle": "bold"
+        "foreground": "#69b2b2",
+        "fontStyle": ""
       }
     },
     {
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#aab"
+        "foreground": "#9fc5af"
       }
     },
     {
