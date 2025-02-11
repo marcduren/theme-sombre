@@ -39,7 +39,7 @@
     },
     {
       "name": "Variables",
-      "scope": ["variable", "support.variable"],
+      "scope": ["variable", "variable.language", "support.variable"],
       "settings": {
         "foreground": "#ddd",
         "fontStyle": ""
@@ -47,21 +47,9 @@
     },
     {
       "name": "Numbers, Characters, Constantes",
-      "scope": [
-        "string",
-        "constant.character.escape",
-        "string.regexp",
-        "constant",
-        "constant.numeric",
-        "constant.character",
-        "constant.language",
-        "support.constant",
-        "variable.language",
-
-        "support.type"
-      ],
+      "scope": ["string", "constant.character.escape", "string.regexp", "constant", "constant.numeric", "constant.character", "constant.language", "support.constant", "support.type"],
       "settings": {
-        "foreground": "#a3e09d",
+        "foreground": "#b3bd95",
         "fontStyle": ""
       }
     },
