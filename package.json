@@ -2,7 +2,7 @@
   "name": "md-sombre",
   "displayName": "Theme Sombre MD",
   "description": "Couleurs pastels",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "publisher": "marc-duren",
   "engines": {
     "vscode": "^1.60.0"
