@@ -31,7 +31,7 @@
       }
     },
     {
-      "scope": ["entity.name.function", "meta.function-call"],
+      "scope": ["entity.name.function", "support.function.string.php meta.function-call"],
       "settings": {
         "foreground": "#9cb1cc",
         "fontStyle": "italic"
