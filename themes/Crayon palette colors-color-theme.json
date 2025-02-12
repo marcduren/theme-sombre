@@ -5,10 +5,10 @@
     "editor.background": "#1e1e1e",
     "editor.foreground": "#d8d8d8",
     "editor.lineHighlightBorder": "#444",
-    "editor.selectionBackground": "#313164",
+    "editor.selectionBackground": "#3a3a46",
     "editor.selectionHighlightBackground": "#ffff0020",
     "sideBarTitle.foreground": "#bbbbbb",
-    "tab.activeBackground": "#404080",
+    "tab.activeBackground": "#2a2a55",
     "minimapSlider.activeBackground": "#8888bb55",
     "minimapSlider.background": "#8888bb55",
     "minimapSlider.hoverBackground": "#8888bb55"
