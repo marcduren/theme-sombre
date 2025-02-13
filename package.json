@@ -20,7 +20,8 @@
     ]
   },
   "repository": {
-      "type": "git",
-      "url": "https://github.com/marcduren/theme-sombre"
-  }
+    "type": "git",
+    "url": "https://github.com/marcduren/theme-sombre"
+  },
+  "icon": "images/logo-128.png"
 }
