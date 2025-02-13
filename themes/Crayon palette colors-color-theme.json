@@ -62,7 +62,7 @@
       }
     },
     {
-      "scope": ["entity.other.attribute-name"],
+      "scope": ["entity.other.attribute-name.html"],
       "settings": {
         "foreground": "#9fc5af"
       }
@@ -72,6 +72,13 @@
       "settings": {
         "foreground": "#B27B78",
         "fontStyle": ""
+      }
+    },
+    {
+      "scope": ["source.vue meta.attribute.directive.vue entity.other.attribute-name.html"],
+      "settings": {
+        "fontStyle": "underline"
+        
       }
     },
     {
