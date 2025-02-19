@@ -3,7 +3,7 @@
   "colors": {
     "activityBarBadge.background": "#5a7ca4",
     "editor.background": "#1e1e1e",
-    "editor.foreground": "#d8d8d8",
+    "editor.foreground": "#dddddd",
     "editor.lineHighlightBorder": "#444",
     "editor.selectionBackground": "#3a3a46",
     "editor.selectionHighlightBackground": "#ffff0020",
@@ -26,14 +26,14 @@
       "name": "Keywords + Types",
       "scope": ["keyword", "keyword.operator", "keyword.other", "storage.type", "support.type"],
       "settings": {
-        "foreground": "#c09191",
+        "foreground": "#d39b9b",
         "fontStyle": ""
       }
     },
     {
       "scope": ["entity.name.function", "support.function.string.php meta.function-call"],
       "settings": {
-        "foreground": "#9cb1cc",
+        "foreground": "#a0c2da",
         "fontStyle": "italic"
       }
     },
@@ -49,7 +49,7 @@
       "name": "Numbers, Characters, Constantes",
       "scope": ["string", "constant.character.escape", "string.regexp", "constant", "constant.numeric", "constant.character", "constant.language", "support.constant", "support.type"],
       "settings": {
-        "foreground": "#b3bd95",
+        "foreground": "#dacba0",
         "fontStyle": ""
       }
     },
@@ -57,14 +57,14 @@
       "name": "tag",
       "scope": ["entity.name.tag", "punctuation.definition.tag"],
       "settings": {
-        "foreground": "#69b2b2",
+        "foreground": "#95cbab",
         "fontStyle": ""
       }
     },
     {
       "scope": ["entity.other.attribute-name.html"],
       "settings": {
-        "foreground": "#9fc5af"
+        "foreground": "#a0d4da"
       }
     },
     {
@@ -78,7 +78,7 @@
       "scope": ["source.vue meta.attribute.directive.vue entity.other.attribute-name.html"],
       "settings": {
         "fontStyle": "underline"
-        
+
       }
     },
     {
