@@ -2,7 +2,7 @@
   "name": "md-sombre",
   "displayName": "Theme Sombre MD",
   "description": "Couleurs pastels pour Vuejs",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "publisher": "marc-duren",
   "engines": {
     "vscode": "^1.60.0"

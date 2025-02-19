@@ -57,14 +57,14 @@
       "name": "tag",
       "scope": ["entity.name.tag", "punctuation.definition.tag"],
       "settings": {
-        "foreground": "#95cbab",
+        "foreground": "#7fc6c6",
         "fontStyle": ""
       }
     },
     {
       "scope": ["entity.other.attribute-name.html"],
       "settings": {
-        "foreground": "#a0d4da"
+        "foreground": "#95cbab"
       }
     },
     {
