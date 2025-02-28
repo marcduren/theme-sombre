@@ -1,5 +1,6 @@
 # Change Log
 
+* 0.0.14 Commentaires italiques
 * 0.0.12 Capture écran
 * 0.0.11 couleur Tag et attributs inversés
 * 0.0.10 Nouvelle palette (HSL S=44% L=74%)

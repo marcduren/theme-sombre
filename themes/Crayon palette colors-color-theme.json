@@ -5,8 +5,8 @@
     "editor.background": "#1e1e1e",
     "editor.foreground": "#dddddd",
     "editor.lineHighlightBorder": "#444",
-    "editor.selectionBackground": "#3a3a46",
-    "editor.selectionHighlightBackground": "#ffff0020",
+    "editor.selectionBackground": "#586270",
+    "editor.selectionHighlightBackground": "#58627080",
     "sideBarTitle.foreground": "#bbbbbb",
     "tab.activeBackground": "#2a2a55",
     "minimapSlider.activeBackground": "#8888bb55",
@@ -18,8 +18,8 @@
       "name": "Comments",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#586270",
-        "fontStyle": ""
+        "foreground": "#888888",
+        "fontStyle": "italic"
       }
     },
     {
