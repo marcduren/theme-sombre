@@ -1,5 +1,6 @@
 # Change Log
 
+* 0.0.15 couleur fonction moin bleu
 * 0.0.14 Commentaires italiques
 * 0.0.12 Capture écran
 * 0.0.11 couleur Tag et attributs inversés

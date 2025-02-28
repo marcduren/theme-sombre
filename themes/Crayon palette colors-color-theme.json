@@ -33,7 +33,7 @@
     {
       "scope": ["entity.name.function", "support.function.string.php meta.function-call"],
       "settings": {
-        "foreground": "#a0c2da",
+        "foreground": "#7fb2c6",
         "fontStyle": "italic"
       }
     },
