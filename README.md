@@ -1,9 +1,9 @@
 # md-sombre
 
 ### thème perso
-Couleurs pastels
+Couleurs pastels inspiré des couleurs du thème Crayon
 
-Avec l'extention Vue les attributs vuejs sont soulignés
+Avec l'extention Vue les attributs vueJs sont soulignés
 
 **Aperçu fichier VueJS**
 ![vuejs](vuejs.png)

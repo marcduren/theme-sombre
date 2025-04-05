@@ -1,8 +1,8 @@
 {
   "name": "md-sombre",
   "displayName": "Theme Sombre MD",
-  "description": "Couleurs pastels pour Vuejs",
-  "version": "0.0.14",
+  "description": "Couleurs pastels et attributs vueJs",
+  "version": "0.0.18",
   "publisher": "marc-duren",
   "engines": {
     "vscode": "^1.60.0"

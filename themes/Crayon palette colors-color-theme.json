@@ -2,7 +2,7 @@
   "name": "Crayon palette colors",
   "colors": {
     "activityBarBadge.background": "#5a7ca4",
-    "editor.background": "#1e1e1e",
+    "editor.background": "#333",
     "editor.foreground": "#dddddd",
     "editor.lineHighlightBorder": "#444",
     "editor.selectionBackground": "#586270",
@@ -11,7 +11,9 @@
     "tab.activeBackground": "#2a2a55",
     "minimapSlider.activeBackground": "#8888bb55",
     "minimapSlider.background": "#8888bb55",
-    "minimapSlider.hoverBackground": "#8888bb55"
+    "minimapSlider.hoverBackground": "#8888bb55",
+    "sideBar.background":"#2a2a2a",
+    "activityBar.background":"#111"
   },
   "tokenColors": [
     {
@@ -26,14 +28,14 @@
       "name": "Keywords + Types",
       "scope": ["keyword", "keyword.operator", "keyword.other", "storage.type", "support.type"],
       "settings": {
-        "foreground": "#d39b9b",
+        "foreground": "#caa",
         "fontStyle": ""
       }
     },
     {
       "scope": ["entity.name.function", "support.function.string.php meta.function-call"],
       "settings": {
-        "foreground": "#7fb2c6",
+        "foreground": "#ccf",
         "fontStyle": "italic"
       }
     },
@@ -41,7 +43,7 @@
       "name": "Variables",
       "scope": ["variable", "variable.language", "support.variable"],
       "settings": {
-        "foreground": "#ddd",
+        "foreground": "#eee",
         "fontStyle": ""
       }
     },
@@ -49,7 +51,7 @@
       "name": "Numbers, Characters, Constantes",
       "scope": ["string", "constant.character.escape", "string.regexp", "constant", "constant.numeric", "constant.character", "constant.language", "support.constant", "support.type"],
       "settings": {
-        "foreground": "#dacba0",
+        "foreground": "#bfb",
         "fontStyle": ""
       }
     },
@@ -57,20 +59,20 @@
       "name": "tag",
       "scope": ["entity.name.tag", "punctuation.definition.tag"],
       "settings": {
-        "foreground": "#7fc6c6",
+        "foreground": "#7FC6C6",
         "fontStyle": ""
       }
     },
     {
       "scope": ["entity.other.attribute-name.html"],
       "settings": {
-        "foreground": "#95cbab"
+        "foreground": "#bba"
       }
     },
     {
       "scope": ["support.type.property-name"],
       "settings": {
-        "foreground": "#B27B78",
+        "foreground": "#7ee",
         "fontStyle": ""
       }
     },

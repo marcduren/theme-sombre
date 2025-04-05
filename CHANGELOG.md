@@ -1,5 +1,8 @@
 # Change Log
 
+* 0.0.18 couleurs
+* 0.0.17 fonctions : couleur et style
+* 0.0.16 attributs json
 * 0.0.15 couleur fonction moin bleu
 * 0.0.14 Commentaires italiques
 * 0.0.12 Capture écran
